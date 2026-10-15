@@ -1,0 +1,81 @@
+{
+  "paired": {
+    "crossfit": {
+      "point_covered": 1599,
+      "set_covered": 1599,
+      "full_branch": 199,
+      "empty": 0
+    },
+    "profile": {
+      "point_covered": 1473,
+      "set_covered": 1473,
+      "full_branch": 122,
+      "empty": 0
+    },
+    "qpe_mixture": {
+      "point_covered": 1600,
+      "set_covered": 1600,
+      "full_branch": 200,
+      "empty": 0
+    }
+  },
+  "transition": {
+    "crossfit": {
+      "point_covered": 2796,
+      "set_covered": 2796,
+      "full_branch": 1005,
+      "empty": 0
+    },
+    "profile": {
+      "point_covered": 2441,
+      "set_covered": 2444,
+      "full_branch": 401,
+      "empty": 0
+    },
+    "qpe_mixture": {
+      "point_covered": 2800,
+      "set_covered": 2800,
+      "full_branch": 1086,
+      "empty": 0
+    }
+  },
+  "register": {
+    "crossfit": {
+      "point_covered": 400,
+      "set_covered": 400,
+      "full_branch": 0,
+      "empty": 0
+    },
+    "profile": {
+      "point_covered": 385,
+      "set_covered": 385,
+      "full_branch": 0,
+      "empty": 0
+    }
+  },
+  "misspecification": {
+    "crossfit": {
+      "point_covered": 785,
+      "set_covered": 787,
+      "full_branch": 0,
+      "empty": 0
+    },
+    "profile": {
+      "point_covered": 593,
+      "set_covered": 596,
+      "full_branch": 0,
+      "empty": 0
+    },
+    "qpe_mixture": {
+      "point_covered": 800,
+      "set_covered": 800,
+      "full_branch": 0,
+      "empty": 0
+    }
+  },
+  "primary_nonuniform": {
+    "crossfit": 1400,
+    "profile": 1343,
+    "qpe_mixture": 1400
+  }
+}

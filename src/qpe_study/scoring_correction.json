@@ -1,0 +1,7 @@
+{
+  "original_source_sha256": "bf3f3d35b25944db8232606dd3c702fc96765de358f2008887561c3a4d9d6d2e",
+  "corrected_source_sha256": "5cb9db6bc0ef22e3e1af1e70e65eefebcdaac46443952f59e674d0cf01548b2c",
+  "reason": "Response-union membership must use each saved interval image, rather than its plotted hull. Hull containment can be larger when gap unions have holes. Count generation, fits, confidence sets, error allocation, sampling plan and selection are unchanged.",
+  "timing": "Identified during implementation review before new study aggregation; energy-set computation continues with unchanged methods. Corrected aggregation is replayed from all saved state sets.",
+  "initial_source": "code/history/physical_bridge_initial.py"
+}

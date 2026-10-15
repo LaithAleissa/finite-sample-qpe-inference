@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "dirichlet_60digit_numerators_and_scalar_truth_decisions": 4200,
+  "budget_other_scalar_truth_decisions": 3000,
+  "reconstructed_gap_unions": 2800,
+  "targeted_cells": 126,
+  "targeted_component_envelope_checks": 27840,
+  "minimum_sampled_envelope_margin": 0.0,
+  "maximum_60digit_kernel_discrepancy": 9.43689570931383e-15,
+  "maximum_60digit_dirichlet_log_discrepancy": 8.185452315956354e-12,
+  "maximum_independent_qpm_log_discrepancy": 4.547473508864641e-12,
+  "limitations": "Targeted sampled envelope diagnostics only; no directed rounding, exhaustive rejection-cell certification or global PLR maximum certificate.",
+  "independently_recreated_budget_state_counts": 1000,
+  "response_values_checked": 70848,
+  "maximum_response_discrepancy": 1.734723475976807e-18,
+  "targeted_scalar_profile_upper_bound_checks": 630
+}

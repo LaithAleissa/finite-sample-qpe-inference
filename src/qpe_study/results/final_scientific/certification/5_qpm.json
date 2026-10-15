@@ -1,0 +1,75 @@
+{
+  "record": {
+    "case": "transition_s128_e0p95",
+    "group": "transition",
+    "trial": 0,
+    "n": 4,
+    "energy": 1.013,
+    "eta": 0.95,
+    "shots_per_batch": 128,
+    "mechanism": "uniform",
+    "batch_a": [
+      7,
+      9,
+      13,
+      6,
+      6,
+      7,
+      4,
+      8,
+      9,
+      6,
+      11,
+      7,
+      6,
+      9,
+      16,
+      4
+    ],
+    "batch_b": [
+      9,
+      7,
+      11,
+      10,
+      6,
+      8,
+      5,
+      5,
+      7,
+      5,
+      7,
+      7,
+      10,
+      7,
+      16,
+      8
+    ]
+  },
+  "method": "qpm",
+  "certificate": {
+    "intervals": [
+      [
+        -3.75,
+        3.75
+      ]
+    ],
+    "rejected_cells": [],
+    "visited_cells": 1,
+    "tolerance": 0.000234375,
+    "arithmetic": "mpmath directed interval arithmetic, 40 decimal digits",
+    "scope": "certified outer enclosure of exact region for these fixed predictors/reference points"
+  },
+  "production": {
+    "intervals": [
+      [
+        -3.75,
+        3.75
+      ]
+    ],
+    "tolerance": 4.6875e-05,
+    "visited_cells": 0,
+    "uniform_channel_accepted": true
+  },
+  "numerator_intervals": "[-708.919183911352971089649406653662587070954319, -708.91918391135297108964940665366258707062518]",
+  "seconds": 2.118305699998018
+}

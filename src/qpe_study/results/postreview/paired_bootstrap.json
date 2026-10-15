@@ -1,0 +1,145 @@
+{
+  "table_PLR_rows_bootstrap_columns": [
+    [
+      6,
+      27
+    ],
+    [
+      0,
+      167
+    ]
+  ],
+  "bootstrap_only": 27,
+  "PLR_only": 0,
+  "exact_two_sided_p": 1.4901161193847656e-08,
+  "per_design": [
+    {
+      "case": "transition_s128_e0p9",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          25
+        ]
+      ],
+      "bootstrap_only": 0,
+      "PLR_only": 0,
+      "exact_two_sided_p": 1.0
+    },
+    {
+      "case": "transition_s128_e0p95",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          24
+        ]
+      ],
+      "bootstrap_only": 1,
+      "PLR_only": 0,
+      "exact_two_sided_p": 1.0
+    },
+    {
+      "case": "transition_s128_e0p98",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          1,
+          6
+        ],
+        [
+          0,
+          18
+        ]
+      ],
+      "bootstrap_only": 6,
+      "PLR_only": 0,
+      "exact_two_sided_p": 0.03125
+    },
+    {
+      "case": "transition_s128_e1p0",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          20
+        ]
+      ],
+      "bootstrap_only": 5,
+      "PLR_only": 0,
+      "exact_two_sided_p": 0.0625
+    },
+    {
+      "case": "transition_s512_e0p9",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          2,
+          0
+        ],
+        [
+          0,
+          23
+        ]
+      ],
+      "bootstrap_only": 0,
+      "PLR_only": 0,
+      "exact_two_sided_p": 1.0
+    },
+    {
+      "case": "transition_s512_e0p95",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          24
+        ]
+      ],
+      "bootstrap_only": 0,
+      "PLR_only": 0,
+      "exact_two_sided_p": 1.0
+    },
+    {
+      "case": "transition_s512_e0p98",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          1,
+          5
+        ],
+        [
+          0,
+          19
+        ]
+      ],
+      "bootstrap_only": 5,
+      "PLR_only": 0,
+      "exact_two_sided_p": 0.0625
+    },
+    {
+      "case": "transition_s512_e1p0",
+      "table_PLR_rows_bootstrap_columns": [
+        [
+          1,
+          10
+        ],
+        [
+          0,
+          14
+        ]
+      ],
+      "bootstrap_only": 10,
+      "PLR_only": 0,
+      "exact_two_sided_p": 0.001953125
+    }
+  ]
+}

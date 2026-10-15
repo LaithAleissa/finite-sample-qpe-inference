@@ -1,0 +1,6 @@
+{
+  "status": "complete",
+  "records": 200,
+  "resamples": 199800,
+  "scope": "Candidate-wise diagnostic only; no bootstrap interval lengths"
+}

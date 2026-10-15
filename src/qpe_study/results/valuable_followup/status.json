@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "paired_state_datasets": 1600,
+  "budget_state_datasets": 1000,
+  "budget_gap_trials": 500,
+  "base_queries_per_gap": 128520
+}

@@ -1,0 +1,26 @@
+{
+  "cp_nonuniform": 1398,
+  "cp_uniform": 196,
+  "cp_uniform_full": 195,
+  "cp_qpm_ratio_range": [
+    0.5551577830814107,
+    0.9108864331060428
+  ],
+  "cf_cp_ratio_range": [
+    0.8729400525435873,
+    1.4042056074766356
+  ],
+  "cf_narrower_cp": 4,
+  "drift_ratio_range": [
+    1.0,
+    1.0822813345356177
+  ],
+  "drift_shared_covered": 600,
+  "drift_extended_covered": 600,
+  "scaling_covered": {
+    "crossfit": 200,
+    "qpm_fixed": 200,
+    "qpm_growing": 200
+  },
+  "certification_sets": 12
+}

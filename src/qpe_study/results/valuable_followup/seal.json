@@ -1,0 +1,13 @@
+{
+  "files": {
+    "qpe_study/followup_plan.md": "0221bd6228850f7a6b4f71417e4775a428e34f7073b73f1a6f0d0bb28aca4de3",
+    "qpe_study/code/valuable_followup.py": "6c631a7748c7d7c899e3d5ebd5a9ade17f740b73652208a611f2c804f9b7d2e5",
+    "qpe_study/code/methods.py": "4174fbbfaf612d5ae281acd59afca34438cf06431fcddd229a525023eec95473",
+    "qpe_study/code/physical_bridge.py": "5cb9db6bc0ef22e3e1af1e70e65eefebcdaac46443952f59e674d0cf01548b2c",
+    "continuous_inversion/code/refined_inversion.py": "78f496ad49c04a6aa2cca27fb46d3c2bfd72731380df02177f100dd72ce2d67e",
+    "continuous_inversion/code/profile_lr.py": "755e4c4a9195d1f2fff2f22cf793177135e3de69b96601bd21a19a0259c87285"
+  },
+  "original_counts_sha256": "8a2d185d18f7f776d2ed22fe236adb99acf1c9a8cb42aa9339ff2a32a06ec6e7",
+  "externally_preregistered": false,
+  "review_driven": true
+}

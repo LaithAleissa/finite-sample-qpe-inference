@@ -1,0 +1,14 @@
+{
+  "known_noise_trial": 0,
+  "kelvin_per_model_unit": 113.30367910343477,
+  "anchor_cm1": 315,
+  "anchor_K": 453.2147164137391,
+  "estimated_gap_K": 453.059046948029,
+  "gap_confidence_set_K": [
+    [
+      451.96138868745055,
+      454.13896322008526
+    ]
+  ],
+  "coverage": "Conditional 95% set from one known-noise trial; literature scale and classical model fixed"
+}

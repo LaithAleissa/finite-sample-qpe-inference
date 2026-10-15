@@ -1,0 +1,13 @@
+{
+  "primary_reference_point_counts": {
+    "base": 1400,
+    "dense": 1400,
+    "adaptive": 1400
+  },
+  "dense_ratio_range": [
+    1.0674408693799275,
+    1.9978112175102598
+  ],
+  "dense_ratio_CI_lower_min": 1.052306005569646,
+  "noiseless_dense_change": 0.07618814306712385
+}

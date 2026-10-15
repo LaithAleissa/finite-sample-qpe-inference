@@ -1,0 +1,14 @@
+{
+  "plan_sha256": "002a9b715fad4cce7c2d857400f0fac2e2516e2cecd6c06abfa80116cb9e7b34",
+  "sources": {
+    "qpe_study/code/physical_bridge.py": "bf3f3d35b25944db8232606dd3c702fc96765de358f2008887561c3a4d9d6d2e",
+    "qpe_study/code/methods.py": "4174fbbfaf612d5ae281acd59afca34438cf06431fcddd229a525023eec95473",
+    "continuous_inversion/code/refined_inversion.py": "78f496ad49c04a6aa2cca27fb46d3c2bfd72731380df02177f100dd72ce2d67e",
+    "continuous_inversion/code/profile_lr.py": "755e4c4a9195d1f2fff2f22cf793177135e3de69b96601bd21a19a0259c87285",
+    "predictive_inference/code/predictive.py": "a2fc979c85e6393d59537ed50f405ec81b1af4ff9b10d1fd17d6f0320805cf3f",
+    "known_noise/inference.py": "06c7279e6dce553f232df8a5199a2e599d02fa584cd3088249e4a234fcfa1032",
+    "material_model/physics.py": "18266d4c69a7d6fd6c484fb5a572168eafa9c0c48b2d8e875e6f8e111e5c0bf4"
+  },
+  "externally_preregistered": false,
+  "seed": 2026100804
+}

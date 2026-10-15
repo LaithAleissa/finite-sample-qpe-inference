@@ -1,0 +1,114 @@
+{
+  "status": "passed",
+  "checks": {
+    "prior_scientific_files_unchanged": 5889,
+    "public_package_excluded_intermediates": 0,
+    "independent_cp_truth_decisions": 1600,
+    "independent_drift_truth_decisions": 600,
+    "maximum_shared_production_length_outside_drift": 0,
+    "independent_scaling_qpm_truth_decisions": 400,
+    "independent_fresh_shared_cf_truth_decisions": 800,
+    "streamed_base_log_numerator_difference": 0.0,
+    "complete_interval_certificates": 12,
+    "certificate_comparisons": [
+      {
+        "case": "grid_noise_015",
+        "method": "cf",
+        "certified_length": 0.1018524169921875,
+        "production_length": 0.10102272033691406,
+        "certified_extra_length": 0.0008296966552734375,
+        "production_extra_length": 0
+      },
+      {
+        "case": "grid_noise_015",
+        "method": "qpm",
+        "certified_length": 0.10894775390625,
+        "production_length": 0.10820388793945312,
+        "certified_extra_length": 0.000743865966796875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "offgrid_noise_010",
+        "method": "cf",
+        "certified_length": 0.113525390625,
+        "production_length": 0.11157989501953125,
+        "certified_extra_length": 0.00194549560546875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "offgrid_noise_010",
+        "method": "qpm",
+        "certified_length": 0.1425933837890625,
+        "production_length": 0.1409626007080078,
+        "certified_extra_length": 0.0016307830810546875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "halfbin_lowshots",
+        "method": "cf",
+        "certified_length": 0.43853759765625,
+        "production_length": 0.4302978515625,
+        "certified_extra_length": 0.00823974609375,
+        "production_extra_length": 0
+      },
+      {
+        "case": "halfbin_lowshots",
+        "method": "qpm",
+        "certified_length": 0.49713134765625,
+        "production_length": 0.49495697021484375,
+        "certified_extra_length": 0.00217437744140625,
+        "production_extra_length": 0
+      },
+      {
+        "case": "branch_noise_010",
+        "method": "cf",
+        "certified_length": 0.083770751953125,
+        "production_length": 0.08259773254394531,
+        "certified_extra_length": 0.0011730194091796875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "branch_noise_010",
+        "method": "qpm",
+        "certified_length": 0.1032257080078125,
+        "production_length": 0.10273933410644531,
+        "certified_extra_length": 0.0004863739013671875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "positive_noise_040",
+        "method": "cf",
+        "certified_length": 0.315399169921875,
+        "production_length": 0.3144550323486328,
+        "certified_extra_length": 0.0009441375732421875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "positive_noise_040",
+        "method": "qpm",
+        "certified_length": 0.299835205078125,
+        "production_length": 0.2990913391113281,
+        "certified_extra_length": 0.000743865966796875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "transition_s128_e0p95",
+        "method": "cf",
+        "certified_length": 1.3368988037109375,
+        "production_length": 1.1464691162109375,
+        "certified_extra_length": 0.1904296875,
+        "production_extra_length": 0
+      },
+      {
+        "case": "transition_s128_e0p95",
+        "method": "qpm",
+        "certified_length": 7.5,
+        "production_length": 7.5,
+        "certified_extra_length": 0,
+        "production_extra_length": 0
+      }
+    ]
+  },
+  "independent_human_verification": false,
+  "certification_scope": "12 selected newly generated outer sets only; historical unions not globally certified"
+}

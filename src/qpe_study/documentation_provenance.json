@@ -1,0 +1,17 @@
+{
+  "scope": "Administrative manuscript/upload instructions removed from three protocol documents. Scientific specifications are unchanged. Original protocol hashes are retained below; current integrity records refer to the distributed documentation. This editorial cleanup is not a new preregistration or study freeze.",
+  "documents": {
+    "src/qpe_study/scientific_revision_plan.md": {
+      "original_sha256": "a31af7fb32bd63a7f9521e2a1bdb65a47d84a028fd83f5d2aa0fcb00273b2a74",
+      "distributed_sha256": "72b45b34897f1a12aedddbe49c0fb7b1fe1f846b6fdc1114179661f1d6cd4c65"
+    },
+    "src/qpe_study/presubmission2_analysis_plan.md": {
+      "original_sha256": "64ba1a0e6609a64b3d767c0164d536db3a28bc793dfea2df6607630213b9a07d",
+      "distributed_sha256": "7d93eb813164717952214820e15e9e0e13abc2b93925771080ccf9cf3e9cc460"
+    },
+    "src/qpe_study/analysis_amendment_2026-10-05.md": {
+      "original_sha256": "57468d7277829e388414287e818afec1730db49b2d93a17b001eb384f49a2fa9",
+      "distributed_sha256": "90a97e999b63f0089a0e0c360fdc87b399404cbd21557cda189d1376cf3385bd"
+    }
+  }
+}

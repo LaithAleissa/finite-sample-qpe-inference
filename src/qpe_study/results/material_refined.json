@@ -1,0 +1,43 @@
+{
+  "known_noise_trial": 0,
+  "kelvin_per_model_unit": 113.30367910343477,
+  "anchor_cm1": 315,
+  "anchor_K": 453.2147164137391,
+  "estimated_gap_K": 453.059046948029,
+  "gap_confidence_set_K": [
+    [
+      452.1307646001118,
+      453.9825538844699
+    ]
+  ],
+  "coverage": "Conditional 95% set from one known-noise trial; literature scale and classical model fixed",
+  "sets": [
+    {
+      "intervals": [
+        [
+          -3.002922534942627,
+          -2.9949188232421875
+        ]
+      ],
+      "tolerance": 1.171875e-05,
+      "visited_cells": 795
+    },
+    {
+      "intervals": [
+        [
+          0.9955143928527832,
+          1.0038542747497559
+        ]
+      ],
+      "tolerance": 1.171875e-05,
+      "visited_cells": 739
+    }
+  ],
+  "production_envelope": "common Taylor/global envelope; terminal bin-width /10000",
+  "inherited_set_K": [
+    [
+      451.96138868745055,
+      454.13896322008526
+    ]
+  ]
+}

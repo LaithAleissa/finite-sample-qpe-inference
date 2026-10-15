@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "state_datasets": 1600,
+  "gap_trials": 800,
+  "methods": [
+    "crossfit",
+    "qpe_mixture",
+    "profile"
+  ],
+  "alpha_per_state": 0.025,
+  "total_shots_per_gap": 2048,
+  "scale_K_per_unit": 113.30367910343477,
+  "temperatures": [
+    50.0,
+    100.0,
+    200.0,
+    283.0,
+    300.0,
+    500.0
+  ],
+  "curve_coverage": "Fixed response image gives simultaneous containment over all positive temperatures; empirical grid replay is diagnostic."
+}

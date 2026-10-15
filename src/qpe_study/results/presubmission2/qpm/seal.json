@@ -1,0 +1,22 @@
+{
+
+  "shared_inference\\presubmission2_analysis_plan.md": "7d93eb813164717952214820e15e9e0e13abc2b93925771080ccf9cf3e9cc460",
+
+  "shared_inference\\code\\presubmission2.py": "a7012a2f00348c993ff3ab290a4aff372c74d6ce5d49c0248b72ce81a3387184",
+
+  "shared_inference\\code\\methods.py": "4174fbbfaf612d5ae281acd59afca34438cf06431fcddd229a525023eec95473",
+
+  "shared_inference\\code\\circuit_noise.py": "b629e57df21ebea431bd8ee109cd5d0a1fba22498c3d7805d2616d83e692144d",
+
+  "shared_inference\\code\\adequacy.py": "f88ea0bb67b3b4cce51cb28423853619823cf2c8ed7e1cbb02590a60c103bcba",
+
+  "shared_inference\\code\\fast_profile.py": "4571ac6f850e01f128f62f58c674b4fcc518b2acf0b0f1ce9d6589e152bed360",
+
+  "quantum_model\\dimer.py": "f63150a86fbf2a887fc7030f91aab60f08a482dff56d1230d481b8d067c97818",
+
+  "continuous_inversion\\code\\refined_inversion.py": "78f496ad49c04a6aa2cca27fb46d3c2bfd72731380df02177f100dd72ce2d67e",
+
+  "continuous_inversion\\code\\profile_lr.py": "755e4c4a9195d1f2fff2f22cf793177135e3de69b96601bd21a19a0259c87285"
+
+}
+

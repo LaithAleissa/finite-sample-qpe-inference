@@ -1,0 +1,18 @@
+[
+  {
+    "design": 0,
+    "median_qpm_minus_dir_log_predictive": 22.352847990459622
+  },
+  {
+    "design": 1,
+    "median_qpm_minus_dir_log_predictive": 76.65144488524413
+  },
+  {
+    "design": 2,
+    "median_qpm_minus_dir_log_predictive": 25.92729117091153
+  },
+  {
+    "design": 3,
+    "median_qpm_minus_dir_log_predictive": 78.97225725233511
+  }
+]

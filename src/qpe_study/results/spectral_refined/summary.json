@@ -1,0 +1,10 @@
+{
+  "gap_trials": 200,
+  "gap_covered": 200,
+  "gap_median_length": 0.015996694564819336,
+  "gap_mean_length": 0.016024839878082276,
+  "ordering_trials": 2000,
+  "zero_field_trials": 400,
+  "zero_field_false_separations": 0,
+  "ordering_cells": 20
+}

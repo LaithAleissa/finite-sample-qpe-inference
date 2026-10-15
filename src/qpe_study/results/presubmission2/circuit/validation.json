@@ -1,0 +1,55 @@
+{
+  "original_circuit_identical": true,
+  "cells": [
+    {
+      "energy": 1.0,
+      "offset": 0.0,
+      "ideal_max_error": 3.3306690738754696e-15,
+      "other_eigenvalues": {
+        "singlet": -3.0,
+        "triplet_plus": 1.0,
+        "triplet_00": 1.0,
+        "triplet_11": 1.0
+      },
+      "depth": 109,
+      "operations": {
+        "u": 76,
+        "cx": 67
+      }
+    },
+    {
+      "energy": 0.234375,
+      "offset": -0.765625,
+      "ideal_max_error": 1.6653345369377348e-15,
+      "other_eigenvalues": {
+        "singlet": -3.765625,
+        "triplet_plus": 0.234375,
+        "triplet_00": 0.234375,
+        "triplet_11": 0.234375
+      },
+      "depth": 110,
+      "operations": {
+        "u": 80,
+        "cx": 67
+      }
+    },
+    {
+      "energy": -3.7499,
+      "offset": -4.7499,
+      "ideal_max_error": 4.440892098500626e-15,
+      "other_eigenvalues": {
+        "singlet": -7.7499,
+        "triplet_plus": -3.7499000000000002,
+        "triplet_00": -3.7499000000000002,
+        "triplet_11": -3.7499000000000002
+      },
+      "depth": 110,
+      "operations": {
+        "u": 80,
+        "cx": 67
+      }
+    }
+  ],
+  "old_E1_reused": true,
+  "synthetic_not_hardware": true
+}

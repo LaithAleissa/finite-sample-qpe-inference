@@ -1,0 +1,8 @@
+{
+  "source": "docs\\current code\\isotropic_full_bencmark.py",
+  "source_sha256": "b01dbba91456428641f41f762a72cfc51aeade49017d266ffe35155d7407a9ee",
+  "origin": "Guha data replotted in Bleaney & Bowers Fig. 4; inherited digitization from project code",
+  "extraction": "AST literal extraction only; original script is not imported or executed",
+  "conversion": "chi=p2/(8T), retained to reproduce legacy audit",
+  "uncertainties": "Not supplied; perturbations below are declared scenarios only"
+}

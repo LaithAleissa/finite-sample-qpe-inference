@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and the GitHub release tag or commit used for your analysis."
+title: "Finite-Sample QPE Inference With Unknown Uniform Replacement: A Copper Acetate Dimer Case Study"
+type: software
+authors:
+  - family-names: Al-Issa
+    given-names: Laith
+  - family-names: Awad
+    given-names: Abdalkarim
+repository-code: "https://github.com/LaithAleissa/qpe-inference-copper-acetate"
+abstract: "Scientific code, observations, complete numerical confidence sets, derived results and figures accompanying the QPE inference study."
+keywords:
+  - quantum phase estimation
+  - finite-sample inference
+  - copper acetate

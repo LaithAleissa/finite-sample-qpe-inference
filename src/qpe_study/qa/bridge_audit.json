@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "state_datasets": 1600,
+  "independently_recomputed_point_decisions": 4800,
+  "gap_trials": 800,
+  "method_gap_unions": 2400,
+  "response_values_checked": 41428,
+  "dense_example_values_checked": 12628,
+  "maximum_log_numerator_discrepancy": 1.77351466845721e-11,
+  "maximum_saved_profile_fit_discrepancy": 3.3651303965598345e-11,
+  "maximum_response_discrepancy": 1.3010426069826053e-18,
+  "precision": "independent double precision; inherited high-precision audit has separate scope",
+  "global_alternative_maxima_certified": false,
+  "all_endpoints_certified": false
+}
