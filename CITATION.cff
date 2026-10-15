@@ -7,7 +7,7 @@ authors:
     given-names: Laith
   - family-names: Awad
     given-names: Abdalkarim
-repository-code: "https://github.com/LaithAleissa/qpe-inference-copper-acetate"
+repository-code: "https://github.com/LaithAleissa/finite-sample-qpe-inference"
 abstract: "Scientific code, observations, complete numerical confidence sets, derived results and figures accompanying the QPE inference study."
 keywords:
   - quantum phase estimation
