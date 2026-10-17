@@ -45,3 +45,7 @@ CF, QPM, DIR and simultaneous CP compare confidence constructions under a specif
 The software license and its scope are provided in [LICENSE](LICENSE). Historical digitized susceptibility inputs retain their source attribution and documented provenance limitations. [CITATION.cff](CITATION.cff) provides repository citation metadata.
 
 Existing software copyright notices are retained. Software copyright attribution is distinct from the associated article's author list, which is Laith Al-Issa and Abdalkarim Awad.
+
+## Manuscript figure correspondence
+
+The article source references `figs/Figure_01.pdf` through `figs/Figure_11.pdf`; these are byte-identical to the PDFs in `figures/main/`. The supplement similarly references `figs/Figure_S01.pdf` through `figs/Figure_S16.pdf`, matching `figures/supplement/`. Publisher assets and author photographs belong to the separate manuscript source package, not this computational repository.

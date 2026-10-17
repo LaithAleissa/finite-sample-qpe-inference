@@ -3,162 +3,189 @@
     "section": "main",
     "number": 1,
     "figure": "Figure_01",
-    "asset": "16_physical_workflow_column"
+    "asset": "16_physical_workflow_column",
+    "manuscript_path": "figs/Figure_01.pdf"
   },
   {
     "section": "main",
     "number": 2,
     "figure": "Figure_02",
-    "asset": "01_qpe_circuit"
+    "asset": "01_qpe_circuit",
+    "manuscript_path": "figs/Figure_02.pdf"
   },
   {
     "section": "main",
     "number": 3,
     "figure": "Figure_03",
-    "asset": "03_primary"
+    "asset": "03_primary",
+    "manuscript_path": "figs/Figure_03.pdf"
   },
   {
     "section": "main",
     "number": 4,
     "figure": "Figure_04",
-    "asset": "04_transition"
+    "asset": "04_transition",
+    "manuscript_path": "figs/Figure_04.pdf"
   },
   {
     "section": "main",
     "number": 5,
     "figure": "Figure_05",
-    "asset": "17_resources_ordering"
+    "asset": "17_resources_ordering",
+    "manuscript_path": "figs/Figure_05.pdf"
   },
   {
     "section": "main",
     "number": 6,
     "figure": "Figure_06",
-    "asset": "15_circuit_phase_summary"
+    "asset": "15_circuit_phase_summary",
+    "manuscript_path": "figs/Figure_06.pdf"
   },
   {
     "section": "main",
     "number": 7,
     "figure": "Figure_07",
-    "asset": "18_unknown_gap_response"
+    "asset": "18_unknown_gap_response",
+    "manuscript_path": "figs/Figure_07.pdf"
   },
   {
     "section": "main",
     "number": 8,
     "figure": "Figure_08",
-    "asset": "08_propagation"
+    "asset": "08_propagation",
+    "manuscript_path": "figs/Figure_08.pdf"
   },
   {
     "section": "main",
     "number": 9,
     "figure": "Figure_09",
-    "asset": "09_historical_fit"
+    "asset": "09_historical_fit",
+    "manuscript_path": "figs/Figure_09.pdf"
   },
   {
     "section": "main",
     "number": 10,
     "figure": "Figure_10",
-    "asset": "14_uncertainty_scopes_column"
+    "asset": "14_uncertainty_scopes_column",
+    "manuscript_path": "figs/Figure_10.pdf"
   },
   {
     "section": "main",
     "number": 11,
     "figure": "Figure_11",
-    "asset": "12_components"
+    "asset": "12_components",
+    "manuscript_path": "figs/Figure_11.pdf"
   },
   {
     "section": "supplement",
     "number": 1,
     "figure": "Figure_S01",
-    "asset": "03_resources"
+    "asset": "03_resources",
+    "manuscript_path": "figs/Figure_S01.pdf"
   },
   {
     "section": "supplement",
     "number": 2,
     "figure": "Figure_S02",
-    "asset": "02_known"
+    "asset": "02_known",
+    "manuscript_path": "figs/Figure_S02.pdf"
   },
   {
     "section": "supplement",
     "number": 3,
     "figure": "Figure_S03",
-    "asset": "07_bootstrap"
+    "asset": "07_bootstrap",
+    "manuscript_path": "figs/Figure_S03.pdf"
   },
   {
     "section": "supplement",
     "number": 4,
     "figure": "Figure_S04",
-    "asset": "14_circuit_phase_distributions"
+    "asset": "14_circuit_phase_distributions",
+    "manuscript_path": "figs/Figure_S04.pdf"
   },
   {
     "section": "supplement",
     "number": 5,
     "figure": "Figure_S05",
-    "asset": "13_qpm_sensitivity"
+    "asset": "13_qpm_sensitivity",
+    "manuscript_path": "figs/Figure_S05.pdf"
   },
   {
     "section": "supplement",
     "number": 6,
     "figure": "Figure_S06",
-    "asset": "05_alias"
+    "asset": "05_alias",
+    "manuscript_path": "figs/Figure_S06.pdf"
   },
   {
     "section": "supplement",
     "number": 7,
     "figure": "Figure_S07",
-    "asset": "19_all_response_examples"
+    "asset": "19_all_response_examples",
+    "manuscript_path": "figs/Figure_S07.pdf"
   },
   {
     "section": "supplement",
     "number": 8,
     "figure": "Figure_S08",
-    "asset": "20_equal_query_followup"
+    "asset": "20_equal_query_followup",
+    "manuscript_path": "figs/Figure_S08.pdf"
   },
   {
     "section": "supplement",
     "number": 9,
     "figure": "Figure_S09",
-    "asset": "20_scaling_drift"
+    "asset": "20_scaling_drift",
+    "manuscript_path": "figs/Figure_S09.pdf"
   },
   {
     "section": "supplement",
     "number": 10,
     "figure": "Figure_S10",
-    "asset": "01_qpe_circuit"
+    "asset": "01_qpe_circuit",
+    "manuscript_path": "figs/Figure_S10.pdf"
   },
   {
     "section": "supplement",
     "number": 11,
     "figure": "Figure_S11",
-    "asset": "08_propagation"
+    "asset": "08_propagation",
+    "manuscript_path": "figs/Figure_S11.pdf"
   },
   {
     "section": "supplement",
     "number": 12,
     "figure": "Figure_S12",
-    "asset": "09_historical_fit"
+    "asset": "09_historical_fit",
+    "manuscript_path": "figs/Figure_S12.pdf"
   },
   {
     "section": "supplement",
     "number": 13,
     "figure": "Figure_S13",
-    "asset": "14_uncertainty_scopes"
+    "asset": "14_uncertainty_scopes",
+    "manuscript_path": "figs/Figure_S13.pdf"
   },
   {
     "section": "supplement",
     "number": 14,
     "figure": "Figure_S14",
-    "asset": "10_fit_sensitivity"
+    "asset": "10_fit_sensitivity",
+    "manuscript_path": "figs/Figure_S14.pdf"
   },
   {
     "section": "supplement",
     "number": 15,
     "figure": "Figure_S15",
-    "asset": "11_fit_diagnostics"
+    "asset": "11_fit_diagnostics",
+    "manuscript_path": "figs/Figure_S15.pdf"
   },
   {
     "section": "supplement",
     "number": 16,
     "figure": "Figure_S16",
-    "asset": "12_components"
+    "asset": "12_components",
+    "manuscript_path": "figs/Figure_S16.pdf"
   }
 ]
