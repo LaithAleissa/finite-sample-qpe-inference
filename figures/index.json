@@ -70,13 +70,6 @@
     "manuscript_path": "figs/Figure_10.pdf"
   },
   {
-    "section": "main",
-    "number": 11,
-    "figure": "Figure_11",
-    "asset": "12_components",
-    "manuscript_path": "figs/Figure_11.pdf"
-  },
-  {
     "section": "supplement",
     "number": 1,
     "figure": "Figure_S01",
@@ -143,49 +136,21 @@
     "section": "supplement",
     "number": 10,
     "figure": "Figure_S10",
-    "asset": "01_qpe_circuit",
+    "asset": "10_fit_sensitivity",
     "manuscript_path": "figs/Figure_S10.pdf"
   },
   {
     "section": "supplement",
     "number": 11,
     "figure": "Figure_S11",
-    "asset": "08_propagation",
+    "asset": "11_fit_diagnostics",
     "manuscript_path": "figs/Figure_S11.pdf"
   },
   {
     "section": "supplement",
     "number": 12,
     "figure": "Figure_S12",
-    "asset": "09_historical_fit",
-    "manuscript_path": "figs/Figure_S12.pdf"
-  },
-  {
-    "section": "supplement",
-    "number": 13,
-    "figure": "Figure_S13",
-    "asset": "14_uncertainty_scopes",
-    "manuscript_path": "figs/Figure_S13.pdf"
-  },
-  {
-    "section": "supplement",
-    "number": 14,
-    "figure": "Figure_S14",
-    "asset": "10_fit_sensitivity",
-    "manuscript_path": "figs/Figure_S14.pdf"
-  },
-  {
-    "section": "supplement",
-    "number": 15,
-    "figure": "Figure_S15",
-    "asset": "11_fit_diagnostics",
-    "manuscript_path": "figs/Figure_S15.pdf"
-  },
-  {
-    "section": "supplement",
-    "number": 16,
-    "figure": "Figure_S16",
     "asset": "12_components",
-    "manuscript_path": "figs/Figure_S16.pdf"
+    "manuscript_path": "figs/Figure_S12.pdf"
   }
 ]

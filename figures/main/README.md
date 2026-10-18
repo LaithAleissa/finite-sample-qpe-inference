@@ -10,6 +10,5 @@
 - [Figure_08](Figure_08.pdf): Known-channel response
 - [Figure_09](Figure_09.pdf): Historical fit/residuals
 - [Figure_10](Figure_10.pdf): Uncertainty scopes
-- [Figure_11](Figure_11.pdf): TIP and anisotropy components
 
 See [the reproduction map](../README.md) for code and data. PDF and SVG are vector formats; PNG is provided for preview.

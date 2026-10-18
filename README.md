@@ -8,7 +8,7 @@ This repository contains the scientific code, integer observations, complete num
 
 | Folder | Contents |
 | --- | --- |
-| [`figures/main`](figures/main) | Figures 1–11 in PDF, SVG and PNG |
+| [`figures/main`](figures/main) | Figures 1â€“11 in PDF, SVG and PNG |
 | [`figures/supplement`](figures/supplement) | Numbered supplementary figures in PDF, SVG and PNG |
 | [`src`](src) | Scientific implementations and authoritative observations/results |
 | [`scripts`](scripts) | Figure regeneration, integrity checks, tests, and study replay |
@@ -48,4 +48,4 @@ Existing software copyright notices are retained. Software copyright attribution
 
 ## Manuscript figure correspondence
 
-The article source references `figs/Figure_01.pdf` through `figs/Figure_11.pdf`; these are byte-identical to the PDFs in `figures/main/`. The supplement similarly references `figs/Figure_S01.pdf` through `figs/Figure_S16.pdf`, matching `figures/supplement/`. Publisher assets and author photographs belong to the separate manuscript source package, not this computational repository.
+The article source references `figs/Figure_01.pdf` through `figs/Figure_10.pdf`; these are byte-identical to the PDFs in `figures/main/`. The supplement similarly references `figs/Figure_S01.pdf` through `figs/Figure_S12.pdf`, matching `figures/supplement/`. Publisher assets and author photographs belong to the separate manuscript source package, not this computational repository.
